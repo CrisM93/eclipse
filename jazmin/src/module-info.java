@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author crizt
- *
- */
-module jazmin {
-}
