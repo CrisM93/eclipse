@@ -7,8 +7,7 @@ public class Principal {
 		System.out.println("Ingeniero: " + ing.getNombre() + " ," + ing.getEdad() + " Salario: ," + ing.getSalario());
 
 		Antropologo antrop = new Antropologo("Juan", 25, 3400);
-		System.out.println(
-				"Antropologo: " + antrop.getNombre() + " , " + antrop.getEdad() + " Salario: ," + antrop.getSalario());
+		System.out.println("Antropologo: " + antrop.getNombre() + " , " + antrop.getEdad() + " Salario: ," + antrop.getSalario());
 
 		Mariachi mariac = new Mariachi("Martin", 29, 2500);
 		System.out.println("Mariachi: " + mariac.getNombre() + " , " + mariac.getEdad() + " Salario: ," + mariac.getSalario());
